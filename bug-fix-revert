@@ -1,0 +1,9 @@
+ 
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1 | grep -E '"html_url":|"state":|"label":|"ref":'
+
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/1",
+  "state": "open",
+  "label": "shahmeerdv:bug-fix-typo",
+  "ref": "bug-fix-typo",
+  "label": "ibm-developer-skills-network:main",
+  "ref": "main",
