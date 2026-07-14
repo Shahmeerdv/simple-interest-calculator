@@ -1,5 +1,5 @@
- 
 $ git branch -vv
 
-* main         a1b2c3d [origin/main] Update README.md with simple interest formula
-  bug-fix-typo e4f5g6h [origin/bug-fix-typo] Correct typos in README documentation
+* main            a1b2c3d [origin/main] Update README.md with simple interest formula
+  bug-fix-typo    e4f5g6h [origin/bug-fix-typo] Correct typos in README documentation
+  bug-fix-revert  i8j9k0l [origin/bug-fix-revert] Revert merge and verify pull request
