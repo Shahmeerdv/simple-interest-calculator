@@ -1,0 +1,16 @@
+ 
+$ curl -s https://api.github.com/repos/shahmeerdv/simple-interest-calculator | grep -E '"fork":|"parent":|"source":|ibm-developer-skills-network'
+
+  "fork": true,
+  "parent": {
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+  },
+  "source": {
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+  }
